@@ -3,7 +3,8 @@
 # Script to import and export Pecan styles
 # Author: Daniel Neemann
 
-uber="$HOME/Library/Application Support/Übersicht/widgets/"
+# uber="$HOME/Library/Application Support/Übersicht/widgets/"
+uber="$HOME/.ubersicht/widgets/"
 name="$2"
 directory="${PWD##*/}"
 themes="./themes/$name"
